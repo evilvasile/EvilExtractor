@@ -46,7 +46,7 @@ As long as your executable uses the same argument pattern, you can use this to r
 
 ## Releases
 
-* [EvilExtractor V1.0](/evilvasile/EvilExtractor/releases/download/v1.0/EvilExtractor.exe)
+* [EvilExtractor V1.0](https://github.com/evilvasile/EvilExtractor/releases/download/v1.0/EvilExtractor.exe)
 
 ## License
 
