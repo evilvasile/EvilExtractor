@@ -2,6 +2,8 @@
 
 In short, it's a GUI application I made for running the "Prey (2017) pak decryption tool" on multiple files, sequentially. 
 
+The original thread for the actual decryption tools is here: https://forum.xentax.com/viewtopic.php?f=10&t=16241
+
 ## How to use
 
 ### Decrypting the Prey *.pak files
