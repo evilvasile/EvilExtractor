@@ -46,7 +46,7 @@ As long as your executable uses the same argument pattern, you can use this to r
 
 ## Releases
 
-* Todo - add link to release file here
+* [EvilExtractor V1.0](/evilvasile/EvilExtractor/releases/download/v1.0/EvilExtractor.exe)
 
 ## License
 
