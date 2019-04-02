@@ -7,7 +7,7 @@ In short, it's a GUI application I made for running the "Prey (2017) pak decrypt
 ### Decrypting the Prey *.pak files
 
 * Get a copy of Prey installed
-* Get the [pak decryption tool](https://forum.xentax.com/viewtopic.php?f=10&t=16241)#p130356) from the xentax forums
+* Get the [pak decryption tool](https://forum.xentax.com/viewtopic.php?f=10&t=16241#p130356) from the xentax forums
 * Build or download a realease of this, and run it!
 * Set the Input File Extension to "*.pak"
 * Set the Output File Extension to "*.zip"
@@ -20,7 +20,7 @@ In short, it's a GUI application I made for running the "Prey (2017) pak decrypt
 ### Decrypting the Prey *.xml files
 
 * Extract the *.xml files from the decrypted *.zip files after using the above method
-* Get the [xml decrpytion tool](https://forum.xentax.com/viewtopic.php?f=10&t=16241)#p130429) from the xentax forums
+* Get the [xml decrpytion tool](https://forum.xentax.com/viewtopic.php?f=10&t=16241#p130429) from the xentax forums
 * Run the EvilExtractor
 * Set the Input File Extension to "*.xml"
 * Set the Output File Extension to "*.xml"
@@ -50,4 +50,4 @@ As long as your executable uses the same argument pattern, you can use this to r
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
